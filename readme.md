@@ -2,6 +2,12 @@
 Bootstrap 3 minimal template with SASS/SCSS integration
 ====================
 
+Based on theme of Okvee
+-----------------------
+https://wordpress.org/themes/bootstrap-basic/
+
+=====
+
 This theme is used a minimal starter theme for Wordpress development.  Bootstrap files are broken out in into SCSS components and compiled using Grunt/compass.
 
 Required dependencies:
